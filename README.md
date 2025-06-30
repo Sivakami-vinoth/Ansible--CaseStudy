@@ -104,8 +104,11 @@ Configure install-mysql.yaml in mail.yml
 ![Image](https://github.com/user-attachments/assets/c4b9b06e-07aa-4cc6-ab12-e654cad4d0fa)
 
 Check syntax error and execute the playbook
+
 	ansible-playbook playbook5.yaml - -syntax-check
+
 	ansible-playbook playbook5.yaml - -check
+
 	ansible-playbook playbook5.yaml
 
 ![Image](https://github.com/user-attachments/assets/634505f3-b482-4ed7-9087-75f2866a5342)
