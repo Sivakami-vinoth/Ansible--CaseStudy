@@ -78,4 +78,4 @@ Create a file install-java.yaml
 
 Configure install-java.yaml in mail.yml
 
-![Image](https://github.com/user-attachments/assets/64fd6d
+![Image](https://github.com/user-attachments/assets/64fd6d37-cd9a-4b11-a645-f671a1fab542)
