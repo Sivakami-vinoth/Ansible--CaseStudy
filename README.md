@@ -36,6 +36,7 @@ Run the following commands from Master Node
 ![Image](https://github.com/user-attachments/assets/584ae900-f2f6-4df6-8f30-145e63f1b75e)
 
 Step:3 Generate a keypair to establish connection between master and slave nodes
+
 Run the command -> ssh-keygen (Master node)
 
 ![Image](https://github.com/user-attachments/assets/bc985f08-3640-4db5-bcce-88f69dddb09f)
@@ -58,3 +59,23 @@ Creating two groups test and prod
 ![Image](https://github.com/user-attachments/assets/9812ac0b-094c-47f2-a29c-670a7339e048)
 ![Image](https://github.com/user-attachments/assets/606ba76f-0cbc-4219-a1a2-ee4efe0a6fe7)
 
+Step:2 ping slaves from master
+
+Run the command-> ansible –m ping all
+
+![Image](https://github.com/user-attachments/assets/bccb2464-b733-4781-b9ae-963e9d1e6663)
+
+Step:3 Create a role-> role-java 
+
+![Image](https://github.com/user-attachments/assets/cdd9befa-357a-44c9-a778-c09b33fe057c)
+![Image](https://github.com/user-attachments/assets/76cf0f30-a4b2-401a-8b0e-7d0529979a19)
+
+Create a file install-java.yaml
+
+![Image](https://github.com/user-attachments/assets/1cf29588-ae36-41bf-9c9b-7ef354ca9981)
+![Image](https://github.com/user-attachments/assets/bdf895a1-2771-4d44-8b04-655aec0b15ee)
+![Image](https://github.com/user-attachments/assets/ac182390-a5ca-4220-8842-50eeb5eb32b5)
+
+Configure install-java.yaml in mail.yml
+
+![Image](https://github.com/user-attachments/assets/64fd6d
