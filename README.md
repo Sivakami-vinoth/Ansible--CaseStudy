@@ -115,12 +115,14 @@ Check syntax error and execute the playbook
 ![Image](https://github.com/user-attachments/assets/838e3db7-e5a2-4ba1-a127-07ba663888d4)
 
 ● Install java on test nodes 
+
 Successfully installed java in test nodes(slave1 and slave2)
 
 ![Image](https://github.com/user-attachments/assets/6e5b5e07-6825-41ea-9975-b417795f1384)
 ![Image](https://github.com/user-attachments/assets/2af5e476-e3c5-489f-8a23-cdd932f6aa61)
 
 ● Install mysql-server on prod nodes 
+
 Successfully installed mysql in prod nodes(slave3 and slave4)
 
 ![Image](https://github.com/user-attachments/assets/58a1ace1-1752-4e35-8a9b-cc9f23ae7b7e)
