@@ -13,7 +13,7 @@ Also, once the Apache server configuration is done you need to install Java on t
 
 ## **Follow the below Steps to implement the requirments:**
 
-# **● Create a new deployment of ansible cluster of 5 nodes **
+## ● Create a new deployment of ansible cluster of 5 nodes
 
 ## **Step:1** Create 5 EC2 Instances (master, slave1, slave2, slave3 and slave4)
 
@@ -51,7 +51,7 @@ Also, once the Apache server configuration is done you need to install Java on t
 
 ![Image](https://github.com/user-attachments/assets/1b07be9e-75e6-451d-9487-05be2c6324ec)
 
-# ●** Label 2 nodes as test and other 2 as prod **
+# ● Label 2 nodes as test and other 2 as prod
 
 ## **Step:1** Edit the hosts file with the below data(private ip of slave machines)
 
